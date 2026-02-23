@@ -110,4 +110,11 @@ The system integrates:
 ---
 
 ## 📸 Demo
+<h2 align="center">📄 Project Documentation</h2>
+
+<p align="center">
+  <a href="SNAKE_GAME_(1).pdf">
+    View Full Project Report
+  </a>
+</p>
   
